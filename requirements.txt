@@ -2,6 +2,4 @@ streamlit
 cohere
 pytesseract
 Pillow
-SpeechRecognition
-pyaudio
 matplotlib
