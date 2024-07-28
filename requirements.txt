@@ -2,4 +2,4 @@ streamlit
 cohere
 pytesseract
 Pillow
-matplotlib
+speechrecognition
